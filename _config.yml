@@ -30,7 +30,7 @@ github_username:  poena
   #linkedin_username: poena
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
