@@ -21,10 +21,10 @@
 title: Poena's Home
 email: poena@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm focus on agile ASIC design. This space is used to record some awesome 
+  I focus on agile ASIC design. This space is used to record some awesome 
   methodology, tools or skill for IC design.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://poena.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  poena
   #linkedin_username: poena
